@@ -106,17 +106,17 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "gj", "gj", "gj", "gj", "good job", "wp", "nice", "goodjob", "gjwp", "nice one", "sweet", "awesome"
+                "gj", "gj", "gj", "gj", "Muito bom", "wp", "nice", "jogo bem", "gjwp", "nice", "boa mlk", "impressionante"
             };
 
             Smileys = new List<string>
             {
-                "", "", "", "", "", ":)", ":P"
+                ";D", "u.u", "", "", "", ":)", ":P"
             };
 
             Greetings = new List<string>
             {
-                "gl", "hf", "have fun guys", "gl hf", "glhf", "have fun all"
+                "gl", "hf", "bom jogo viados", "gl hf", "glhf", "vai ser loco"
             };
 
             SignOff = new List<string>
@@ -126,27 +126,27 @@ namespace AutoChat
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys", "sorry", "woops", "soz", "my bad"
+                "damn", "desculpa guys", "sry", "berro", "vix", "my bad"
             };
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "bl", "bl", "sorte do caralho", "ma sorte", "vadio"
             };
 
             Clutch = new List<string>
             {
-                "hahaha", "NICE", "GJ", "WELL DONE", "HAHA", "epic", "REKT", "WOW", "GG"
+                "hahaha", "NICE", "GJ", "", "HAHA", "epico", "REKT", "WOW", "GG"
             };
 
             Motivate = new List<string>
             {
-                "push towers", "towers" , "clear lanes", "push", "need objectives", "objectives" ,"lanes", "push", "drag?"
+                "empurra lane", "torres" , "limpa as lanes", "pusha", "precisamos fazer os objetivu", "objetivooos" ,"lanes", "pusha", "drag?"
             };
 
             Honor = new List<string>
             {
-                "wp" ,"wp" , "wp sir", "damn wp", "wp mate", "wp dude", "wp man"
+                "wp" ,"wp" , "wp sr", " wp", "wp ", "wp dude", "wp man"
             };
         }
         #endregion
