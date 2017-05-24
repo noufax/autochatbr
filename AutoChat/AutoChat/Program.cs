@@ -106,7 +106,7 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "gj", "gj", "gj", "gj", "Muito bom", "wp", "nice", "jogo bem", "gjwp", "nice", "boa mlk", "mt boom"
+                "", "", "", "", "boa porra", "wp", "nice", "jogo o fino", "", "nice", "boa mlk", ""
             };
 
             Smileys = new List<string>
@@ -116,7 +116,7 @@ namespace AutoChat
 
             Greetings = new List<string>
             {
-                "gl", "hf", "bom jogo viados", "gl hf", "glhf", "vai ser loco"
+                "", "", "bom jogo viados", "", "", "vai ser loco"
             };
 
             SignOff = new List<string>
@@ -131,7 +131,7 @@ namespace AutoChat
 
             Sympathy = new List<string>
             {
-                "quase em", "bl", "sorte do caralho", "ma sorte", "vadio"
+                "quase em", "bl", "sorte do caralho", "", "vadio"
             };
 
             Clutch = new List<string>
@@ -141,12 +141,12 @@ namespace AutoChat
 
             Motivate = new List<string>
             {
-                "empurra lane", "torres" , "limpa as lanes", "pusha", "acelera esse game", "objetivooos" ,"lanes", "vamo logo e conta bot zz", "drag?"
+                "", "" , "", "", "acelera esse game", "" ,"", "", "?"
             };
 
             Honor = new List<string>
             {
-                "wp" ,"wp" , "wp sr", " wp", "wp ", "wp dude", "wp man"
+                "wp" ,"" , "", "", " ", "", ""
             };
         }
         #endregion
